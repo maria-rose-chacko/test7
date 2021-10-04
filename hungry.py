@@ -1,3 +1,7 @@
 # test7
 
-print("hello world")
+hungry=input("enter your opinion")
+if (hungry=='yes'):
+    print("eat burger")
+else:
+    print("do homework")
